@@ -1,0 +1,55 @@
+D:\Fall2016\DoAnSE\DoAnSE\bin\Debug\DoAnSE.exe.config
+D:\Fall2016\DoAnSE\DoAnSE\bin\Debug\DoAnSE.exe
+D:\Fall2016\DoAnSE\DoAnSE\bin\Debug\DoAnSE.pdb
+D:\Fall2016\DoAnSE\DoAnSE\obj\Debug\DoAnSE.Client.resources
+D:\Fall2016\DoAnSE\DoAnSE\obj\Debug\DoAnSE.Properties.Resources.resources
+D:\Fall2016\DoAnSE\DoAnSE\obj\Debug\DoAnSE.Timing.resources
+D:\Fall2016\DoAnSE\DoAnSE\obj\Debug\DoAnSE.csproj.GenerateResource.Cache
+D:\Fall2016\DoAnSE\DoAnSE\obj\Debug\DoAnSE.exe
+D:\Fall2016\DoAnSE\DoAnSE\obj\Debug\DoAnSE.pdb
+D:\Fall2016\DoAnSE\DoAnSE\obj\Debug\DoAnSE.csprojResolveAssemblyReference.cache
+D:\Fall2016\jj\DoAnSE\bin\Debug\DoAnSE.exe.config
+D:\Fall2016\jj\DoAnSE\obj\Debug\DoAnSE.exe
+D:\Fall2016\jj\DoAnSE\obj\Debug\DoAnSE.pdb
+D:\Fall2016\jj\DoAnSE\bin\Debug\DoAnSE.exe
+D:\Fall2016\jj\DoAnSE\bin\Debug\DoAnSE.pdb
+D:\Fall2016\jj\DoAnSE\obj\Debug\DoAnSE.csprojResolveAssemblyReference.cache
+D:\Fall2016\jj\DoAnSE\obj\Debug\DoAnSE.Client.resources
+D:\Fall2016\jj\DoAnSE\obj\Debug\DoAnSE.Properties.Resources.resources
+D:\Fall2016\jj\DoAnSE\obj\Debug\DoAnSE.Timing.resources
+D:\Fall2016\jj\DoAnSE\obj\Debug\DoAnSE.csproj.GenerateResource.Cache
+D:\Fall2016\KhoBauSE\jj\DoAnSE\bin\Debug\DoAnSE.exe.config
+D:\Fall2016\KhoBauSE\jj\DoAnSE\obj\Debug\DoAnSE.exe
+D:\Fall2016\KhoBauSE\jj\DoAnSE\obj\Debug\DoAnSE.pdb
+C:\Users\Seraphim\Desktop\do an se\DoAnSE\bin\Debug\DoAnSE.exe.config
+C:\Users\Seraphim\Desktop\do an se\DoAnSE\bin\Debug\DoAnSE.exe
+C:\Users\Seraphim\Desktop\do an se\DoAnSE\bin\Debug\DoAnSE.pdb
+C:\Users\Seraphim\Desktop\do an se\DoAnSE\obj\Debug\DoAnSE.Client.resources
+C:\Users\Seraphim\Desktop\do an se\DoAnSE\obj\Debug\DoAnSE.Properties.Resources.resources
+C:\Users\Seraphim\Desktop\do an se\DoAnSE\obj\Debug\DoAnSE.Timing.resources
+C:\Users\Seraphim\Desktop\do an se\DoAnSE\obj\Debug\DoAnSE.csproj.GenerateResource.Cache
+C:\Users\Seraphim\Desktop\do an se\DoAnSE\obj\Debug\DoAnSE.exe
+C:\Users\Seraphim\Desktop\do an se\DoAnSE\obj\Debug\DoAnSE.pdb
+C:\Users\Seraphim\Desktop\do an se\DoAnSE\obj\Debug\DoAnSE.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\DoAnSE\bin\Debug\DoAnSE.exe.config
+\\vmware-host\Shared Folders\Desktop\DoAnSE\bin\Debug\DoAnSE.exe
+\\vmware-host\Shared Folders\Desktop\DoAnSE\bin\Debug\DoAnSE.pdb
+\\vmware-host\Shared Folders\Desktop\DoAnSE\obj\Debug\DoAnSE.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\DoAnSE\obj\Debug\DoAnSE.Client.resources
+\\vmware-host\Shared Folders\Desktop\DoAnSE\obj\Debug\DoAnSE.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\DoAnSE\obj\Debug\DoAnSE.Timing.resources
+\\vmware-host\Shared Folders\Desktop\DoAnSE\obj\Debug\DoAnSE.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Desktop\DoAnSE\obj\Debug\DoAnSE.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\DoAnSE\obj\Debug\DoAnSE.exe
+\\vmware-host\Shared Folders\Desktop\DoAnSE\obj\Debug\DoAnSE.pdb
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNeT\DoAnSE\bin\Debug\DoAnSE.exe.config
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNeT\DoAnSE\bin\Debug\DoAnSE.exe
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNeT\DoAnSE\bin\Debug\DoAnSE.pdb
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNeT\DoAnSE\obj\Debug\DoAnSE.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNeT\DoAnSE\obj\Debug\DoAnSE.Client.resources
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNeT\DoAnSE\obj\Debug\DoAnSE.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNeT\DoAnSE\obj\Debug\DoAnSE.Timing.resources
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNeT\DoAnSE\obj\Debug\DoAnSE.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNeT\DoAnSE\obj\Debug\DoAnSE.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNeT\DoAnSE\obj\Debug\DoAnSE.exe
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNeT\DoAnSE\obj\Debug\DoAnSE.pdb

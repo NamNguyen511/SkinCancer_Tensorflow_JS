@@ -1,0 +1,74 @@
+D:\Fall2016\jj\QuanLyPhongNet - Server\bin\QuanLyPhongNet.exe.config
+D:\Fall2016\jj\QuanLyPhongNet - Server\bin\QuanLyPhongNet.exe
+D:\Fall2016\jj\QuanLyPhongNet - Server\bin\QuanLyPhongNet.pdb
+D:\Fall2016\jj\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.csprojResolveAssemblyReference.cache
+D:\Fall2016\jj\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.CategoryManageGUI.resources
+D:\Fall2016\jj\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.DatabaseConfigurationGUI.resources
+D:\Fall2016\jj\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.HomeGUI.resources
+D:\Fall2016\jj\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.LoadingGUI.resources
+D:\Fall2016\jj\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.LoginGUI.resources
+D:\Fall2016\jj\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.OptionGUI.resources
+D:\Fall2016\jj\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.Properties.Resources.resources
+D:\Fall2016\jj\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.ReportGUI.resources
+D:\Fall2016\jj\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.csproj.GenerateResource.Cache
+D:\Fall2016\jj\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.exe
+D:\Fall2016\jj\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.pdb
+D:\Fall2016\KhoBauSE\jj\QuanLyPhongNet - Server\bin\QuanLyPhongNet.exe.config
+D:\Fall2016\KhoBauSE\jj\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.exe
+D:\Fall2016\KhoBauSE\jj\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.pdb
+C:\Users\Seraphim\Desktop\do an se\QuanLyPhongNet - Server\bin\QuanLyPhongNet.exe.config
+C:\Users\Seraphim\Desktop\do an se\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.exe
+C:\Users\Seraphim\Desktop\do an se\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.pdb
+C:\Users\Seraphim\Desktop\do an se\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.csprojResolveAssemblyReference.cache
+C:\Users\Seraphim\Desktop\do an se\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.AddMemberGUI.resources
+C:\Users\Seraphim\Desktop\do an se\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.AddTimeMemberGUI.resources
+C:\Users\Seraphim\Desktop\do an se\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.CategoryManageGUI.resources
+C:\Users\Seraphim\Desktop\do an se\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.DatabaseConfigurationGUI.resources
+C:\Users\Seraphim\Desktop\do an se\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.HomeGUI.resources
+C:\Users\Seraphim\Desktop\do an se\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.LoadingGUI.resources
+C:\Users\Seraphim\Desktop\do an se\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.LoginGUI.resources
+C:\Users\Seraphim\Desktop\do an se\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.OptionGUI.resources
+C:\Users\Seraphim\Desktop\do an se\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.OrderServiceGUI.resources
+C:\Users\Seraphim\Desktop\do an se\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.Properties.Resources.resources
+C:\Users\Seraphim\Desktop\do an se\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.ReportGUI.resources
+C:\Users\Seraphim\Desktop\do an se\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.csproj.GenerateResource.Cache
+C:\Users\Seraphim\Desktop\do an se\QuanLyPhongNet - Server\bin\QuanLyPhongNet.exe
+C:\Users\Seraphim\Desktop\do an se\QuanLyPhongNet - Server\bin\QuanLyPhongNet.pdb
+C:\Users\HP\Desktop\Do an cong nghe pham mem\QuanLyPhongNet - Server\bin\QuanLyPhongNet.exe.config
+C:\Users\HP\Desktop\Do an cong nghe pham mem\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.exe
+C:\Users\HP\Desktop\Do an cong nghe pham mem\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.pdb
+C:\Users\HP\Desktop\Do an cong nghe pham mem\QuanLyPhongNet - Server\bin\QuanLyPhongNet.exe
+C:\Users\HP\Desktop\Do an cong nghe pham mem\QuanLyPhongNet - Server\bin\QuanLyPhongNet.pdb
+C:\Users\HP\Desktop\Do an cong nghe pham mem\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Do an cong nghe pham mem\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.AddMemberGUI.resources
+C:\Users\HP\Desktop\Do an cong nghe pham mem\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.AddTimeMemberGUI.resources
+C:\Users\HP\Desktop\Do an cong nghe pham mem\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.CategoryManageGUI.resources
+C:\Users\HP\Desktop\Do an cong nghe pham mem\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.DatabaseConfigurationGUI.resources
+C:\Users\HP\Desktop\Do an cong nghe pham mem\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.HomeGUI.resources
+C:\Users\HP\Desktop\Do an cong nghe pham mem\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.LoadingGUI.resources
+C:\Users\HP\Desktop\Do an cong nghe pham mem\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.LoginGUI.resources
+C:\Users\HP\Desktop\Do an cong nghe pham mem\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.OptionGUI.resources
+C:\Users\HP\Desktop\Do an cong nghe pham mem\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.OrderServiceGUI.resources
+C:\Users\HP\Desktop\Do an cong nghe pham mem\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.Properties.Resources.resources
+C:\Users\HP\Desktop\Do an cong nghe pham mem\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.ReportGUI.resources
+C:\Users\HP\Desktop\Do an cong nghe pham mem\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNet - Server\bin\QuanLyPhongNet.exe.config
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNet - Server\bin\QuanLyPhongNet.exe
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNet - Server\bin\QuanLyPhongNet.pdb
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.AddMemberGUI.resources
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.AddTimeMemberGUI.resources
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.CategoryManageGUI.resources
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.DatabaseConfigurationGUI.resources
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.HomeGUI.resources
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.LoadingGUI.resources
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.LoginGUI.resources
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.OptionGUI.resources
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.OrderServiceGUI.resources
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.ReportGUI.resources
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.csproj.CopyComplete
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.exe
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNet - Server\QuanLyPhongNet\obj\Debug\QuanLyPhongNet.pdb

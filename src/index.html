@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Benign or Malignant</title>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" i
+    ntegrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.js" 
+    integrity="sha256-DrT5NfxfbHvMHux31Lkhxg42LY6of8TaYyK50jnxRnM=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" 
+integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@2.0.0/dist/tf.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-automl@1.0.0/dist/tf-automl.min.js"></script> 
+    <script src="predict.js"></script>
+
+</head>
+
+<body>
+    <main role="main" class="container mt-5">
+        <div class="row">
+          <div class="col-12">
+            <div class="progress progress-bar progress-bar-striped progress-bar-animated mb-2">
+              Loading Model
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-6">
+            <input id="image-selector" class="form-control border-0" type="file" />
+          </div>
+          <div class="col-6">
+            <button id="predictBtn" class="btn btn-primary float-right">
+              Predict
+            </button>
+          </div>
+        </div>
+        <hr />
+        <div class="row">
+          <div class="col-6">
+            <h2 class="ml-3">Image</h2>
+            <img id="selected-image" class="ml-3" width="250" alt="Placeholder" />
+          </div>
+          <div class="col-6">
+            <h2 class="ml-3">Predictions</h2>
+            
+              <div id="prediction-benign"></div>
+              <div id="prediction-malignant"></div>
+            
+          </div>
+        </div>
+      </main>
+
+</body>
+</html>

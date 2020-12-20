@@ -1,0 +1,23 @@
+D:\Fall2016\jj\QuanLyPhongNet - Server\bin\QuanLyPhongNet.BUS.dll
+D:\Fall2016\jj\QuanLyPhongNet - Server\bin\QuanLyPhongNet.BUS.pdb
+D:\Fall2016\jj\QuanLyPhongNet - Server\QuanLyPhongNet.BUS\obj\Debug\QuanLyPhongNet.BUS.csprojResolveAssemblyReference.cache
+D:\Fall2016\jj\QuanLyPhongNet - Server\QuanLyPhongNet.BUS\obj\Debug\QuanLyPhongNet.BUS.dll
+D:\Fall2016\jj\QuanLyPhongNet - Server\QuanLyPhongNet.BUS\obj\Debug\QuanLyPhongNet.BUS.pdb
+C:\Users\Seraphim\Desktop\do an se\QuanLyPhongNet - Server\bin\QuanLyPhongNet.BUS.dll
+C:\Users\Seraphim\Desktop\do an se\QuanLyPhongNet - Server\bin\QuanLyPhongNet.BUS.pdb
+C:\Users\Seraphim\Desktop\do an se\QuanLyPhongNet - Server\QuanLyPhongNet.BUS\obj\Debug\QuanLyPhongNet.BUS.csprojResolveAssemblyReference.cache
+C:\Users\Seraphim\Desktop\do an se\QuanLyPhongNet - Server\QuanLyPhongNet.BUS\obj\Debug\QuanLyPhongNet.BUS.dll
+C:\Users\Seraphim\Desktop\do an se\QuanLyPhongNet - Server\QuanLyPhongNet.BUS\obj\Debug\QuanLyPhongNet.BUS.pdb
+C:\Users\HP\Desktop\Do an cong nghe pham mem\QuanLyPhongNet - Server\bin\QuanLyPhongNet.BUS.dll
+C:\Users\HP\Desktop\Do an cong nghe pham mem\QuanLyPhongNet - Server\bin\QuanLyPhongNet.BUS.pdb
+C:\Users\HP\Desktop\Do an cong nghe pham mem\QuanLyPhongNet - Server\QuanLyPhongNet.BUS\obj\Debug\QuanLyPhongNet.BUS.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Do an cong nghe pham mem\QuanLyPhongNet - Server\QuanLyPhongNet.BUS\obj\Debug\QuanLyPhongNet.BUS.dll
+C:\Users\HP\Desktop\Do an cong nghe pham mem\QuanLyPhongNet - Server\QuanLyPhongNet.BUS\obj\Debug\QuanLyPhongNet.BUS.pdb
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNet - Server\bin\QuanLyPhongNet.BUS.dll.config
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNet - Server\bin\QuanLyPhongNet.BUS.dll
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNet - Server\bin\QuanLyPhongNet.BUS.pdb
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNet - Server\QuanLyPhongNet.BUS\obj\Debug\QuanLyPhongNet.BUS.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNet - Server\QuanLyPhongNet.BUS\obj\Debug\QuanLyPhongNet.BUS.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNet - Server\QuanLyPhongNet.BUS\obj\Debug\QuanLyPhongNet.BUS.csproj.CopyComplete
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNet - Server\QuanLyPhongNet.BUS\obj\Debug\QuanLyPhongNet.BUS.dll
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNet - Server\QuanLyPhongNet.BUS\obj\Debug\QuanLyPhongNet.BUS.pdb

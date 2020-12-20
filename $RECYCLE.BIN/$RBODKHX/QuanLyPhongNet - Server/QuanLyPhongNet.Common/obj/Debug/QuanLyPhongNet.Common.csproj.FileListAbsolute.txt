@@ -1,0 +1,24 @@
+D:\Fall2016\jj\QuanLyPhongNet - Server\bin\QuanLyPhongNet.Common.dll.config
+D:\Fall2016\jj\QuanLyPhongNet - Server\bin\QuanLyPhongNet.Common.dll
+D:\Fall2016\jj\QuanLyPhongNet - Server\bin\QuanLyPhongNet.Common.pdb
+D:\Fall2016\jj\QuanLyPhongNet - Server\QuanLyPhongNet.Common\obj\Debug\QuanLyPhongNet.Common.csprojResolveAssemblyReference.cache
+D:\Fall2016\jj\QuanLyPhongNet - Server\QuanLyPhongNet.Common\obj\Debug\QuanLyPhongNet.Common.dll
+D:\Fall2016\jj\QuanLyPhongNet - Server\QuanLyPhongNet.Common\obj\Debug\QuanLyPhongNet.Common.pdb
+C:\Users\Seraphim\Desktop\do an se\QuanLyPhongNet - Server\bin\QuanLyPhongNet.Common.dll.config
+C:\Users\Seraphim\Desktop\do an se\QuanLyPhongNet - Server\bin\QuanLyPhongNet.Common.dll
+C:\Users\Seraphim\Desktop\do an se\QuanLyPhongNet - Server\bin\QuanLyPhongNet.Common.pdb
+C:\Users\Seraphim\Desktop\do an se\QuanLyPhongNet - Server\QuanLyPhongNet.Common\obj\Debug\QuanLyPhongNet.Common.dll
+C:\Users\Seraphim\Desktop\do an se\QuanLyPhongNet - Server\QuanLyPhongNet.Common\obj\Debug\QuanLyPhongNet.Common.pdb
+C:\Users\HP\Desktop\Do an cong nghe pham mem\QuanLyPhongNet - Server\bin\QuanLyPhongNet.Common.dll.config
+C:\Users\HP\Desktop\Do an cong nghe pham mem\QuanLyPhongNet - Server\bin\QuanLyPhongNet.Common.dll
+C:\Users\HP\Desktop\Do an cong nghe pham mem\QuanLyPhongNet - Server\bin\QuanLyPhongNet.Common.pdb
+C:\Users\HP\Desktop\Do an cong nghe pham mem\QuanLyPhongNet - Server\QuanLyPhongNet.Common\obj\Debug\QuanLyPhongNet.Common.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Do an cong nghe pham mem\QuanLyPhongNet - Server\QuanLyPhongNet.Common\obj\Debug\QuanLyPhongNet.Common.dll
+C:\Users\HP\Desktop\Do an cong nghe pham mem\QuanLyPhongNet - Server\QuanLyPhongNet.Common\obj\Debug\QuanLyPhongNet.Common.pdb
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNet - Server\bin\QuanLyPhongNet.Common.dll.config
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNet - Server\bin\QuanLyPhongNet.Common.dll
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNet - Server\bin\QuanLyPhongNet.Common.pdb
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNet - Server\QuanLyPhongNet.Common\obj\Debug\QuanLyPhongNet.Common.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNet - Server\QuanLyPhongNet.Common\obj\Debug\QuanLyPhongNet.Common.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNet - Server\QuanLyPhongNet.Common\obj\Debug\QuanLyPhongNet.Common.dll
+\\vmware-host\Shared Folders\Desktop\QuanLyPhongNet - Server\QuanLyPhongNet.Common\obj\Debug\QuanLyPhongNet.Common.pdb
